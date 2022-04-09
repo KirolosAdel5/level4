@@ -32,10 +32,10 @@ $(".Click-here").on('click', function() {
 ,{name : '15' , marks1 : 93,marks2 : 78,marks3 : 84}
 ,{name : '24' , marks1 : 78,marks2 :"" ,marks3 : 66}
 ,{name : '31' , marks1 : 93,marks2 : 84,marks3 : 90}
-,{name : '43' , marks1 : 76,marks2 : 63,marks3 : 78}
+,{name : '34' , marks1 : 76,marks2 : 63,marks3 : 78}
 ,{name : '18' , marks1 : 93,marks2 : 75,marks3 : 86}
 ,{name : '29' , marks1 : 73,marks2 : 67,marks3 : 59}
-,{name : '14' , marks1 : 51,marks2 : 53,marks3 : 43}
+,{name : '14' , marks1 : 51,marks2 : 53,marks3 : 83}
 ,{name : '33' , marks1 : 65,marks2 : 65,marks3 : 56}
 ,{name : '20' , marks1 : 100,marks2 : 75,marks3 : 63}
 ,{name : '22' , marks1 : 76,marks2 : 76,marks3 : 71}

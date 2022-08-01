@@ -40,7 +40,7 @@ $(".Click-here").on('click', function() {
         ,{name : '24' ,marks1 : '93' ,marks2 : '78' , marks3 : 84,marks4 : '75',marks5 : '84',att1 : '16',att2 : '10',att3 : '1',att4 : '4',att5 : '59.0'}
         ,{name : '44' ,marks1 : '78' ,marks2 : '-' , marks3 : 66,marks4 : '60',marks5 : '-',att1 : '10',att2 : '7',att3 : '7',att4 : '7',att5 : '43.6'}
         ,{name : '19' ,marks1 : '93' ,marks2 : '84' , marks3 : 90,marks4 : '80',marks5 : '64',att1 : '14',att2 : '5',att3 : '2',att4 : '10',att5 : '46.2'}
-        ,{name : '20' ,marks1 : '96' ,marks2 : '86' , marks3 : 86,marks4 : '74',marks5 : '84',att1 : '20',att2 : '4',att3 : '3',att4 : '4',att5 : '60.7'}
+        ,{name : '20' ,marks1 : '96' ,marks2 : '86' , marks3 : 86,marks4 : '92.5',marks5 : '84',att1 : '20',att2 : '4',att3 : '3',att4 : '4',att5 : '60.7'}
         ,{name : '35' ,marks1 : '76' ,marks2 : '63' , marks3 : 78,marks4 : '67.5',marks5 : '42',att1 : '13',att2 : '9',att3 : '2',att4 : '7',att5 : '50.4'}
         ,{name : '17' ,marks1 : '93' ,marks2 : '75' , marks3 : 86,marks4 : '90',marks5 : '90',att1 : '12',att2 : '11',att3 : '1',att4 : '7',att5 : '50.4'}
         ,{name : '38' ,marks1 : '73' ,marks2 : '67' , marks3 : 59,marks4 : '77.5',marks5 : '70',att1 : '19',att2 : '4',att3 : '2',att4 : '6',att5 : '57.3'}
